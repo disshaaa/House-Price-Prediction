@@ -1,12 +1,12 @@
-# 🏠 House Price Prediction - Ames Housing Dataset
+# 🏠 House Price Prediction 
 
-This project aims to predict the **Sale Price of residential homes** using various regression algorithms on the [Ames Housing dataset](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data). The goal is to compare multiple models and evaluate their performance using key regression metrics and visualizations.
+This project aims to predict the **Sale Price of residential homes** using various regression algorithms on the [House prices dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data). The goal is to compare multiple models and evaluate their performance using key regression metrics and visualizations.
 
 ---
 
 ## 📁 Dataset
 
-**Source**: [Ames Housing on Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data)
+**Source**: [House prices Datasets on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 - **Train data**: 1460 rows × 81 columns
 - **Test data**: 1459 rows × 80 columns (without target)
@@ -103,6 +103,6 @@ Used the following metrics to evaluate performance:
 
 ## 🔗 Dataset Link
 
-👉 [Ames Housing Dataset - Kaggle](https://www.kaggle.com/datasets/codeinstitute/housing-prices-data)
+👉 [House Prices Dataset - Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 ---
